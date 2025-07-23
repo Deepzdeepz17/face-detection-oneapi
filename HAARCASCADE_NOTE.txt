@@ -1,0 +1,5 @@
+
+# NOTE:
+Please download 'haarcascade_frontalface_default.xml' from the official OpenCV GitHub:
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+Place it in the same directory as your executable.
